@@ -9,9 +9,9 @@
 
 <!-- Replace YOUR_GITHUB_USERNAME, YOUR_LINKEDIN_USERNAME, and YOUR_EMAIL with your details. Remove any links you don't need. -->
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/himmatkumawat205-hash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logoColor=white)](https://www.linkedin.com/in/himmatram-kumawat-250920378/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:himmatkumawat205@gmail.com)
 
 # 💻 Tech Stack:
 
